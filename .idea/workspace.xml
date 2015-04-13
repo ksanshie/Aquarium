@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dd52db9-7af3-46e1-bc5e-2440e359414c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\webservers\home\aqua.local\www\Aquarium\index.php" afterPath="$PROJECT_DIR$/Aquarium.php" />
     </list>
     <ignored path="Aquarium.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="Aquarium.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Aquarium.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.6332945" vertical-offset="0" max-vertical-offset="859">
-              <folding />
+            <state line="63" column="26" selection-start="2446" selection-end="2446" vertical-scroll-proportion="1.2467986" vertical-offset="0" max-vertical-offset="1768">
+              <folding>
+                <element signature="e#6#1837#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,6 +51,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Aquarium.php" />
       </list>
     </option>
   </component>
@@ -109,8 +113,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../igrolan.local/www" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -164,10 +182,12 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/Aquarium.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.6332945" vertical-offset="0" max-vertical-offset="697">
-          <folding />
+        <state line="63" column="26" selection-start="2446" selection-end="2446" vertical-scroll-proportion="1.2467986" vertical-offset="0" max-vertical-offset="1768">
+          <folding>
+            <element signature="e#6#1837#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
